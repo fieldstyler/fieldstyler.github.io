@@ -8,9 +8,7 @@ sidebar_link: true
   <img style="padding: 0 20px" src="/assets/images/headshot.jpg" alt="Image" height="320" width="260">
 </div>
 
-Hello! My name is Tyler, Ty, T-Fields, Fieldsy, Tyty, T-Rex, T-Money, or really anything that anyone wants to call me.
-
-I am a Backend Software Engineer and former High School Mathematics Teacher with a passion for people, puzzles, Ping-Pong, puppies, and *Peggy*. Some of my other major passions that don't start with the letter *p* include Tennis, Broadway shows (hence the *Peggy* reference), being goofy all of the time (hence the random alliteration in the previous sentence), basically any game (board, card, video, etc.), and hanging out with my wife and *son* who is an 11 month old Australian Shepherd named Larry!
+Hello! My name is Tyler Fields. I am a Backend Software Engineer and former High School Mathematics Teacher with a passion for people, puzzles, Ping-Pong, puppies, and *Peggy*. Some of my other major passions that don't start with the letter *p* include Tennis, Broadway shows (hence the *Peggy* reference), being goofy all of the time (hence the random alliteration in the previous sentence), basically any game (board, card, video, etc.), and hanging out with my wife and *son* who is an 11-month-old Australian Shepherd named Larry!
 
 <div style="float: right">
   <img style="padding: 0 20px" src="/assets/images/teacher.jpg" alt="Image" height="250" width="170">
